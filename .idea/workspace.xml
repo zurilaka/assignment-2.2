@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4deee28-fcf2-495a-86e8-e2f3aa60726e" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_a.py" afterPath="$PROJECT_DIR$/hello_a.py" />
     </list>
     <ignored path="assignment-2.2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_b.py" afterPath="$PROJECT_DIR$/hello_b.py" />
+    </list>
+    <ignored path="assignment-2.2.iws" />
+    <ignored path=".idea/workspace.xml" />
+>>>>>>> develop
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="hello_a.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello_a.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+=======
+      <file leaf-file-name="hello_b.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello_b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+>>>>>>> develop
               <folding />
             </state>
           </provider>
@@ -42,7 +57,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello_b.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/hello_a.py" />
+=======
+>>>>>>> develop
       </list>
     </option>
   </component>
@@ -171,6 +189,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/hello_a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -179,5 +198,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> develop
   </component>
 </project>
